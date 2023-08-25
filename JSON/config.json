@@ -3,7 +3,7 @@
     "token": "MTE0Mzk0NTc0MTg4MzE1NDUzMw.GJhCDh.vwHec28WFQeVTPZ3rjANVLdOEm7fFbUY1oUb-c",
     "PREFIX": "$",
     "COOLDOWN": 5000,
-    "dbURL": "mongodb+srv://sief4136:siefx2008@cluster0.xsqdvfg.mongodb.net/discord?retryWrites=true&w=majority",
+    "dbURL": "mongodb+srv://xxxxxx:xxxxx@cluster0.xxxxxx.mongodb.net/discord?retryWrites=true&w=majority",
     "clientId": "1143945741883154533",
     "guildId": "942055074497167420",
     "channel":"942055075008876633",
